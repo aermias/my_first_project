@@ -1,1 +1,3 @@
-new cool text file
+# my project
+
+This is the README for my project
